@@ -6,6 +6,7 @@ import (
 )
 
 type Side int64
+type Float = float
 
 const (
 	SideLeft   Side = 0
